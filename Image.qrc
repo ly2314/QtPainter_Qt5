@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/tool_eraser.gif</file>
+        <file>img/tool_line.gif</file>
+        <file>img/tool_arrow.png</file>
+        <file>img/tool_word.gif</file>
+        <file>img/icon.png</file>
+        <file>img/cursor_pencil.gif</file>
+        <file>img/tool_select.gif</file>
+        <file>img/tool_bucket.png</file>
+        <file>img/tool_eclipse.png</file>
+        <file>img/tool_pencil.png</file>
+        <file>img/tool_rectangle.png</file>
+        <file>img/tool_rectangle2.png</file>
+        <file>img/cursor_spray.png</file>
+        <file>img/cursor_glass.png</file>
+    </qresource>
+</RCC>
